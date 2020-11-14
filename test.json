@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Cool Shirts",
+    "description": "This is testing Products",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1497339100210-9e87df79c218?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1529635229076-82fefed713c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+      }
+    ],
+    "weight": "1.3 kg",
+    "length": "2 inches",
+    "width": "2 inches",
+    "height": "2 inches",
+    "status": "active",
+    "has_variant": true,
+    "regular_price": "1200",
+    "sale_price": "1500",
+    "barcode": "1233 2132",
+    "sku": "DFEJVO1343KFO",
+    "profit": "300",
+    "margin": "20%",
+    "is_tracking": true,
+    "number_of_stock": "1000",
+    "available_stock": "1000",
+    "threshold_stock": "200",
+    "sold_out": "120",
+    "vendor": 1,
+    "category": {
+      "label": "Shirt"
+    },
+    "variations": [
+      {
+        "variation_name": "Black/Large",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "0",
+        "sold_out": "0"
+      },
+      {
+        "variation_name": "Black/Small",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "0",
+        "sold_out": "0"
+      },
+      {
+        "variation_name": "White/Small",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "0",
+        "sold_out": "0"
+      },
+      {
+        "variation_name": "White/Large",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "50",
+        "sold_out": "1"
+      }
+    ],
+    "tags": [2, 3, 5, 6],
+    "options": [
+      {
+        "values": ["Black", "White"],
+        "name": "Color"
+      },
+      {
+        "values": ["Large", "Small"],
+        "name": "Size"
+      }
+    ],
+    "locations": [
+      {
+        "location": 1,
+        "quantity": "300",
+        "sold_out": "0"
+      }
+    ]
+  },
+  {
+    "name": "Cool Shoes",
+    "description": "This is testing Product2.",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1520256862855-398228c41684?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+      }
+    ],
+    "weight": "1.3 kg",
+    "length": "2 inches",
+    "width": "2 inches",
+    "height": "2 inches",
+    "status": "active",
+    "has_variant": true,
+    "regular_price": "2500",
+    "sale_price": "2400",
+    "barcode": "1123 2132",
+    "sku": "DFE45VO1343KFO",
+    "profit": "300",
+    "margin": "20%",
+    "is_tracking": true,
+    "number_of_stock": "1000",
+    "available_stock": "1000",
+    "threshold_stock": "200",
+    "sold_out": "120",
+    "vendor": 1,
+    "category": {
+      "label": "Shoe"
+    },
+    "variations": [
+      {
+        "variation_name": "Black/Large",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "0",
+        "sold_out": "0"
+      },
+      {
+        "variation_name": "Black/Small",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "0",
+        "sold_out": "0"
+      },
+      {
+        "variation_name": "Red/Small",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "0",
+        "sold_out": "0"
+      },
+      {
+        "variation_name": "Red/Large",
+        "locations": [
+          {
+            "location": 1,
+            "quantity": "100",
+            "sold_out": "0"
+          }
+        ],
+        "regular_price": "1200",
+        "sale_price": "1500",
+        "barcode": "1234 4546",
+        "sku": "1254676",
+        "is_tracking": true,
+        "number_of_stock": "500",
+        "available_stock": "440",
+        "threshold_stock": "50",
+        "sold_out": "1"
+      }
+    ],
+    "tags": [2, 3, 5, 6],
+    "options": [
+      {
+        "values": ["Black", "Red"],
+        "name": "Color"
+      },
+      {
+        "values": ["Large", "Small"],
+        "name": "Size"
+      }
+    ],
+    "locations": [
+      {
+        "location": 1,
+        "quantity": "300",
+        "sold_out": "0"
+      }
+    ]
+  }
+]
